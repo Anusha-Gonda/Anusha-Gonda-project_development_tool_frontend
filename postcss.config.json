@@ -1,0 +1,9 @@
+
+
+module.exports = {
+    plugins: {
+      tailwindcss: {}, // Apply Tailwind CSS
+      autoprefixer: {}, // Add vendor prefixes automatically
+    },
+  }
+  
